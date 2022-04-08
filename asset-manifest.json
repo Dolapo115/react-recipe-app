@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Dolapo115/react-recipe-app/static/css/main.67a44d2f.chunk.css",
+    "main.js": "/Dolapo115/react-recipe-app/static/js/main.5633c413.chunk.js",
+    "main.js.map": "/Dolapo115/react-recipe-app/static/js/main.5633c413.chunk.js.map",
+    "runtime-main.js": "/Dolapo115/react-recipe-app/static/js/runtime-main.d8dc3393.js",
+    "runtime-main.js.map": "/Dolapo115/react-recipe-app/static/js/runtime-main.d8dc3393.js.map",
+    "static/js/2.9c232882.chunk.js": "/Dolapo115/react-recipe-app/static/js/2.9c232882.chunk.js",
+    "static/js/2.9c232882.chunk.js.map": "/Dolapo115/react-recipe-app/static/js/2.9c232882.chunk.js.map",
+    "index.html": "/Dolapo115/react-recipe-app/index.html",
+    "static/css/main.67a44d2f.chunk.css.map": "/Dolapo115/react-recipe-app/static/css/main.67a44d2f.chunk.css.map",
+    "static/js/2.9c232882.chunk.js.LICENSE.txt": "/Dolapo115/react-recipe-app/static/js/2.9c232882.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Dolapo115/react-recipe-app/static/media/index-wallpaper.78a8eddf.png",
+    "static/media/main.css": "/Dolapo115/react-recipe-app/static/media/main-div-background.ca957a81.png",
+    "static/media/testImage.dda2a994.jpg": "/Dolapo115/react-recipe-app/static/media/testImage.dda2a994.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8dc3393.js",
+    "static/js/2.9c232882.chunk.js",
+    "static/css/main.67a44d2f.chunk.css",
+    "static/js/main.5633c413.chunk.js"
+  ]
+}
